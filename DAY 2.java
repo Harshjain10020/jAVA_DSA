@@ -14,4 +14,18 @@ public class JavaBasic {
 } 
 // boilerplate code//
 // i learn about output , variable .
- 
+
+public class variable {
+    public static void main(String arg[]) {
+        int a = 10 ;
+        int b = 5;
+        System.out.println(a);
+        System.out.println(b);
+        String name = "Harsh jain";
+        System.out.println(name);
+
+
+        a = 50;
+        System.out.println(a);
+    }
+}
