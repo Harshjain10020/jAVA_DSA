@@ -1,4 +1,4 @@
-import java.util.*;
+
 public class sorting {
 
     public static void bubblesort(int arr[]) {
@@ -86,7 +86,7 @@ public class sorting {
     }
     public static void main(String[] args) {
         int arr[] = { 5, 4, 1,1, 3, 2 };
-        Integer arr1[] = { 5, 4, 1, 3, 2 };
+       // Integer arr1[] = { 5, 4, 1, 3, 2 };
         countsort(arr);
         printarr(arr);
         // bubblesort(arr);
